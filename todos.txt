@@ -1,10 +1,8 @@
-edit hi
-edit new table
-hassanhassanedit hi
- hihi
-hello
-my newest todo is added
-my newest todo is added
-my newest todo is added
-hassan
-lastly
+hi
+editing
+in
+pycharm
+for
+a
+todo
+list
