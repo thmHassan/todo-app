@@ -1,15 +1,6 @@
-hi
-editing
-in
 pycharm
- hifor
- ia
-todo
 listhello
 hi
-
-adding test
-editing
-
-hi
-add a task
+wash the car
+get the car
+implementing a todo list
